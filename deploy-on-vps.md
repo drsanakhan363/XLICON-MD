@@ -41,11 +41,11 @@
       OWNER_NUMBER="92xxxxxxxxxx"
       MONGODB_URI="mongodb+srv://*************"
       SESSION_ID = "Put Session Id Here"
-      THUMB_IMAGE = "https://telegra.ph/file/8f6f537cc4103b48f3783.jpg"
+      THUMB_IMAGE = "https://telegra.ph/file/2d56ab8b881dea518e4c6.jpg"
       port = 5000
       email = "xxxxxxxxxxxxx@gmail.com"
       global_url = "www.instagram.com/itz_shaikho/_"
-      OWNER_NAME = "SALMAN"
+      OWNER_NAME = "𝗭𝗔𝗥𝗔"
       AUTO_REACTION = false
       FAKE_COUNTRY_CODE = 354
       READ_MESSAGE = false
